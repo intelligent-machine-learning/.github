@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Intelligent Machine Learning
+Intelligent Machine Learning (IML) targets to setup a full-stack， high-performant and intelligent infrastructure of deep learning for both offline and online, including data processing, model training, model evaluation, and model inferencing, and makes DL real engineering-free and democratic for AI-driven biz. 
 <!--
 
 **Here are some ideas to get you started:**
