@@ -3,18 +3,18 @@ Intelligent Machine Learning (IML) targets to set up a full-stack, high-performa
 
 ## Latest News
 
-- [2025/12] [DLRover on Ray's new architecture achieves its first official release.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/dlrover_on_ray.md)
-- [2025/08] [Practice: Gang Scheduling with DLRover.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/tutorial/gang_scheduling.md)
+- [2025/12] [DLRover on Ray's new architecture achieves its first official release.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/dlrover_on_ray.md)
+- [2025/08] [Practice: Gang Scheduling with DLRover.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/tutorial/gang_scheduling.md)
 - [2025/01] [EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models, ICLR'25.](https://arxiv.org/abs/2412.07210)
-- [2024/06] [DLRover-RM has been accepted by VLDB'24.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/dlrover_rm.md)
-- [2024/04] [Flash Checkpoint Supports HuggingFace transformers.Trainer to Asynchronously persist checkpoints.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/flash_checkpoint.md#huggingface-transformerstrainer)
-- [2024/02] [Flash Checkpoint Saves the Megatron-LM Checkpoint in Seconds.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/megatron_flash_checkpoint.md)
-- [2024/01] [Flash Checkpoint to Recover Large Model Training From Failure in Seconds.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/flash_checkpoint.md)
+- [2024/06] [DLRover-RM has been accepted by VLDB'24.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/dlrover_rm.md)
+- [2024/04] [Flash Checkpoint Supports HuggingFace transformers.Trainer to Asynchronously persist checkpoints.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/flash_checkpoint.md#huggingface-transformerstrainer)
+- [2024/02] [Flash Checkpoint Saves the Megatron-LM Checkpoint in Seconds.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/megatron_flash_checkpoint.md)
+- [2024/01] [Flash Checkpoint to Recover Large Model Training From Failure in Seconds.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/flash_checkpoint.md)
 - [2023/11] [ATorch supporting efficient and easy-to-use model training is released.](https://github.com/intelligent-machine-learning/atorch)
 - [2023/10] [AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference as Preconditioning Matrix, NeurIPS'24.](https://github.com/intelligent-machine-learning/atorch/blob/main/docs/README-AGD.md)
 - [2023/09] [Weighted Sharpness-Aware Minimization (WSAM) has been accepted by KDD'23.](https://github.com/intelligent-machine-learning/atorch/blob/main/docs/README-WSAM.md)
-- [2023/08] [DLRover improves the stability of pre-trained model training over thousands of GPUs.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/stabilize_llm_training_cn.md)
-- [2023/04] [DLRover auto-scales nodes of a DeepRec distributed training job.]([docs](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/deeprec_autoscale_cn.md)
+- [2023/08] [DLRover improves the stability of pre-trained model training over thousands of GPUs.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/stabilize_llm_training_cn.md)
+- [2023/04] [DLRover auto-scales nodes of a DeepRec distributed training job.](https://github.com/intelligent-machine-learning/dlrover/tree/master/docs/blogs/deeprec_autoscale_cn.md)
 <!--
 
 **Here are some ideas to get you started:**
